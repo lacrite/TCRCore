@@ -88,6 +88,7 @@ public class GirlEntity extends PathfinderMob implements IEntityNpc, GeoEntity, 
                 UAItems.SUN_STONE.get(),
                 UAItems.MOON_STONE.get(),
                 UAItems.HERO_EMBLEM.get(),
+                UAItems.MASTER_NINJA_TABI.get(),
                 UAItems.SHINY_STONE.get());
         initMerchant();
     }
