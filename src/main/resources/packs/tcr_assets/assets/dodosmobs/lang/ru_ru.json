@@ -1,0 +1,12 @@
+{
+  "itemGroup.dodosmobs.item": "Dodo's Mods Item",
+  "item.dodosmobs.amalgam_claws": "Амальгамные когти",
+  "item.dodosmobs.chimera_armor_chestplate": "Нагрудник Химеры",
+  "item.dodosmobs.chimera_claw": "Коготь Химеры",
+  "item.dodosmobs.bone_chimera_spawn_egg": "Яйцо призыва костяной химеры",
+  "entity.dodosmobs.bone_chimera": "Костяная Химера",
+  "effect.dodosmobs.wound": "Раненный",
+  "death.attack.dodosmobs.wound": "Рана открылась",
+  "death.attack.dodosmobs.wound.player": "Рана открылась",
+  "entity.dodosmobs.dead_horn": " Мёртвый Рог"
+}
